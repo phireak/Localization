@@ -1,0 +1,7 @@
+TITLE_NOTIFY_SEND = "ការផ្ដល់ដំណឹងសម្រាប់:";
+PREF_NOTIFY_EXCESS_CPU = "ការប្រើប្រាស់ CPU ហួសកំរិត";
+PREF_NOTIFY_EXCESS_MEMORY = "ការប្រើប្រាស់ Memory ហួសកំរិត";
+PREF_NOTIFY_EXCESS_WAKEUPS = "Excessive Wakeups";
+PREF_NOTIFY_EXECUTION_TIMEOUTS = "ប្រតិបត្តិការហួសពេលកំណត់";
+PREF_NOTIFY_LOW_MEMORY = "Memory ទាប";
+PREF_NOTIFY_SANDBOX_VIOLATIONS = "ការបំពាន Sandbox";
